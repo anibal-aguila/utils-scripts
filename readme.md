@@ -7,6 +7,7 @@
 ## Step 0
 ### install and configure essential packages.
 ```
+chmod +x rocky-linux-wakeup.sh
 ./rocky-linux-wakeup.sh
 ```
 
@@ -14,5 +15,6 @@
 ### install and configure virtual box guest additions
 
 ```
+chmod +x rocky-linux-vbox-guest-additions.sh
 ./rocky-linux-vbox-guest-additions.sh
 ```
