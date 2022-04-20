@@ -5,7 +5,7 @@
 > Download this scripts as .zip
 
 ## Step 0
-### install and configure essentials packages.
+### install and configure essential packages.
 ```
 ./rocky-linux-wakeup.sh
 ```
